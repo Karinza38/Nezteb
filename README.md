@@ -1,4 +1,4 @@
-# Eclecticism in Software
+ # Eclecticism in Software
 
 ## 👨🏻‍💼 Work/Education 👨🏻‍💼
 I'm currently a ssenior software engineer at a remote-first startup. I live in the Seattle area. I've got a bachelor of science in computer science.
